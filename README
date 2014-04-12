@@ -1,0 +1,1 @@
+uses statsmodels.api as well as scikit to explore different types of binary classification, e.g., logit, GLM (with loglog), Forest, AdaBoost, SVM on an example with 944 observations
